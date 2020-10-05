@@ -39,7 +39,7 @@ nav {
   height: 65px;
   box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.2); }
   nav .navbar-collapse {
-    height: 65px;
+    //height: 65px;
     z-index: 130;
     background-color: #FFF; }
 @-webkit-media (max-width: 992px) {
